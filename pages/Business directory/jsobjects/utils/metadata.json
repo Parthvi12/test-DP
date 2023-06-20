@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Business directory",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "socialLinks",
+        "value": "{\n  facebook: 'https://www.facebook.com/',\n  twitter: 'https://twitter.com/',\n  linkedIn: 'https://www.linkedin.com/company/'\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Business directory_utils",
+  "deleted": false,
+  "gitSyncId": "6491407b6355e418e28f6793_6491562d6355e418e28f684c"
+}

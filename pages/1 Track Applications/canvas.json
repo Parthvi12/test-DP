@@ -3003,7 +3003,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "1 Track Applications_getApplications",
               "name": "getApplications",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3017,7 +3016,6 @@
           ],
           [
             {
-              "id": "1 Track Applications_fetchFeedback",
               "name": "fetchFeedback",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

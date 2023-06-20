@@ -1,0 +1,1 @@
+select * from company_details ORDER BY email ASC LIMIT 23 offset {{(emailTable.pageNo - 1) * emailTable.pageSize}}
