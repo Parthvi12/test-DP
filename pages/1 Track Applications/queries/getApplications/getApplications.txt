@@ -1,0 +1,1 @@
+SELECT * FROM job_applications where application_status {{ status_dropdown.selectedOptionValue === "All" ? "ilike '%'": "= '" + status_dropdown.selectedOptionValue + "'" }}  ORDER BY id DESC LIMIT {{application_table.pageSize}} offset {{(application_table.pageNo - 1) * application_table.pageSize}};

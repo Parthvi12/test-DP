@@ -1,0 +1,1 @@
+SELECT * FROM candidate_feedback where application_id = '{{ application_table.selectedRow.id}}' ORDER BY id LIMIT 3;

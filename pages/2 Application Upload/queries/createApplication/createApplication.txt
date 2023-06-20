@@ -1,0 +1,12 @@
+INSERT INTO job_applications
+  (candidate_name, candidate_email, candidate_phone_no, applied_role, application_datetime, application_status, resume_url)
+VALUES
+  (
+    '{{ name.text }}',
+		'{{ email.text }}',
+		'{{ phoneNo.text }}',
+    '{{ role.selectedOptionValue }}',
+		'{{ (new Date()).toISOString() }}',
+		'{{ 'Applied' }}',
+		'{{Resume_URL.text}}'
+  );

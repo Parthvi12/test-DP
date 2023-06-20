@@ -1,0 +1,1 @@
+select * from customer_details limit 10 offset {{ (customers_table.pageNo - 1) * customers_table.pageSize }}

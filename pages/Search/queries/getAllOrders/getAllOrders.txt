@@ -1,0 +1,1 @@
+select * from order_table limit 20 offset {{ (orders_table.pageNo - 1) * orders_table.pageSize }}
