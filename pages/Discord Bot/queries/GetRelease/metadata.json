@@ -7,6 +7,7 @@
       "name": "https://api.github.com",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": "https://api.github.com"
       },
       "invalids": [],
