@@ -2396,91 +2396,117 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "delayedOrders",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "monthlyDeliveryDates",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "monthlyExpectedDeliveryDates",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "orderValuePerMonth",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "ordersPerMonth",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "paymentMethod",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "popularProducts",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "refundMethod",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "refundValuePerMonth",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "refundedOrders",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "refundsPerMonth",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "totalCustomers",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "totalOrders",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],

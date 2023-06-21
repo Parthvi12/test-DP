@@ -1888,7 +1888,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Feedback Form_fetch_form_fields",
               "name": "fetch_form_fields",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

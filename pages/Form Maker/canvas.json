@@ -2415,7 +2415,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Form Maker_form_fields_select",
               "name": "form_fields_select",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

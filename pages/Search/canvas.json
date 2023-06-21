@@ -1342,7 +1342,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "getAllCustomers",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -1351,7 +1353,9 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "getAllOrders",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

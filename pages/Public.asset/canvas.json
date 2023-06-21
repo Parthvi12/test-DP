@@ -1970,7 +1970,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "SelectQuery",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

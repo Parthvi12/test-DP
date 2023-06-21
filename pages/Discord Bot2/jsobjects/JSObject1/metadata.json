@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Discord Bot2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Discord Bot2_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6492a99d6355e418e28f6f97_6492c67f6355e418e28f715a"
+}

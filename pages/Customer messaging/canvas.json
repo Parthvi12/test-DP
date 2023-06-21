@@ -5450,7 +5450,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "getCustomerInfo",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
@@ -5459,7 +5461,9 @@
           ],
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "getMessages",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
