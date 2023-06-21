@@ -1,0 +1,2 @@
+DELETE FROM public."candidate_feedback"
+  WHERE "interviewer" = {{data_table.triggeredRow.interviewer}};

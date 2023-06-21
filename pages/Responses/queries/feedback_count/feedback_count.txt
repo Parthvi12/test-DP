@@ -1,0 +1,1 @@
+select count(*) from employee_feedback where asker_email={{appsmith.URL.queryParams.email_id}}

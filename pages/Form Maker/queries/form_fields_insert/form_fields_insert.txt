@@ -1,0 +1,19 @@
+insert into form_fields (form_id,name,pod,months_known,rating,well,improve,doing,feedback,linkedin_recomm,employee_name,creation_time,email_id,form_name,linkedin_link, linkedin_link_1) values (
+																{{Input1Copy1.text}},
+																{{JSObject1.form_fields().name}},
+																{{JSObject1.form_fields().pod}},
+																{{JSObject1.form_fields().months_known}},
+													    	{{JSObject1.form_fields().rating}},
+																{{JSObject1.form_fields().well}},
+																{{JSObject1.form_fields().improve}},
+																{{JSObject1.form_fields().doing}},
+																{{JSObject1.form_fields().feedback}},
+																{{JSObject1.form_fields().linkedin_recomm}},
+																{{Input1.text}},
+																{{Input2.text}},
+																{{Input1Copy.text}},
+																{{Input1Copy1Copy.text}},
+																{{Input3.text}},
+	{{JSObject1.form_fields().linkedin_link_1}}
+	
+)

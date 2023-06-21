@@ -1,0 +1,1 @@
+select * from employee_feedback where asker_email={{appsmith.URL.queryParams.email_id}} and form_id={{Select1.selectedOptionValue}}

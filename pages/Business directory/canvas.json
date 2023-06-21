@@ -2401,7 +2401,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Business directory_select_company_details",
               "name": "select_company_details",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2413,7 +2412,6 @@
           ],
           [
             {
-              "id": "Business directory_clearbit_api",
               "name": "clearbit_api",
               "confirmBeforeExecute": false,
               "pluginType": "API",

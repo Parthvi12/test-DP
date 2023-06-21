@@ -1,0 +1,6 @@
+UPDATE public."candidate_feedback" SET
+		"id" = '{{update_form.fieldState.id.isVisible ? update_form.formData.id : update_form.sourceData.id}}',
+		"application_id" = '{{update_form.fieldState.application_id.isVisible ? update_form.formData.application_id : update_form.sourceData.application_id}}',
+    "feedback" = '{{update_form.fieldState.feedback.isVisible ? update_form.formData.feedback : update_form.sourceData.feedback}}',
+		"rating" = '{{update_form.fieldState.rating.isVisible ? update_form.formData.rating : update_form.sourceData.rating}}'
+WHERE "interviewer" = {{data_table.selectedRow.interviewer}};

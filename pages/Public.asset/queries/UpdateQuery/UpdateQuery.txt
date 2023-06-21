@@ -1,0 +1,11 @@
+UPDATE public."asset" SET
+		"type" = '{{update_form.fieldState.type.isVisible ? update_form.formData.type : update_form.sourceData.type}}',
+		"make" = '{{update_form.fieldState.make.isVisible ? update_form.formData.make : update_form.sourceData.make}}',
+    "model" = '{{update_form.fieldState.model.isVisible ? update_form.formData.model : update_form.sourceData.model}}',
+		"mac_address" = '{{update_form.fieldState.mac_address.isVisible ? update_form.formData.mac_address : update_form.sourceData.mac_address}}',
+		"serial_number" = '{{update_form.fieldState.serial_number.isVisible ? update_form.formData.serial_number : update_form.sourceData.serial_number}}',
+		"ip_address" = '{{update_form.fieldState.ip_address.isVisible ? update_form.formData.ip_address : update_form.sourceData.ip_address}}',
+		"image" = '{{update_form.fieldState.image.isVisible ? update_form.formData.image : update_form.sourceData.image}}',
+		"notes" = '{{update_form.fieldState.notes.isVisible ? update_form.formData.notes : update_form.sourceData.notes}}',
+		"price" = '{{update_form.fieldState.price.isVisible ? update_form.formData.price : update_form.sourceData.price}}'
+WHERE "id" = {{data_table.selectedRow.id}};

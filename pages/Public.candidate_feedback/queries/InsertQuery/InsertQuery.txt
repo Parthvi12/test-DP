@@ -1,0 +1,12 @@
+INSERT INTO public."candidate_feedback" (
+	"interviewer",
+	"id",
+	"application_id",
+	"feedback",
+	"rating")
+VALUES (
+	'{{insert_form.formData.interviewer}}',
+	'{{insert_form.formData.id}}',
+	'{{insert_form.formData.application_id}}',
+	'{{insert_form.formData.feedback}}',
+	'{{insert_form.formData.rating}}');

@@ -1,0 +1,22 @@
+INSERT INTO public."asset" (
+	"id",
+	"type",
+	"make",
+	"model",
+	"mac_address",
+	"serial_number",
+	"ip_address",
+	"image",
+	"notes",
+	"price")
+VALUES (
+	'{{insert_form.formData.id}}',
+	'{{insert_form.formData.type}}',
+	'{{insert_form.formData.make}}',
+	'{{insert_form.formData.model}}',
+	'{{insert_form.formData.mac_address}}',
+	'{{insert_form.formData.serial_number}}',
+	'{{insert_form.formData.ip_address}}',
+	'{{insert_form.formData.image}}',
+	'{{insert_form.formData.notes}}',
+	'{{insert_form.formData.price}}');
