@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Discord Bot",
-    "slug": "discord-bot",
+    "name": "Discord Bot2",
+    "slug": "discord-bot2",
     "layouts": [
       {
         "viewMode": false,
@@ -1614,9 +1614,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Discord Bot2_JSObject1.storeInfo",
+              "id": "Discord Bot2_GetRelease",
               "name": "GetRelease",
-              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
@@ -1627,7 +1626,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Discord Bot2_JSObject1.storeInfo",
+              "id": "Discord Bot2_JSObject1.onOpen",
               "name": "JSObject1.onOpen",
               "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
@@ -1638,7 +1637,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Discord Bot2_JSObject1.storeInfo",
+              "id": "Discord Bot2_JSObject1.openSetup",
               "name": "JSObject1.openSetup",
               "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
@@ -1652,7 +1651,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Discord Bot",
+        "id": "Discord Bot2",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -1663,5 +1662,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6491407b6355e418e28f6793_649279346355e418e28f6bd8"
+  "gitSyncId": "6492a99d6355e418e28f6f97_6492c67e6355e418e28f714d"
 }

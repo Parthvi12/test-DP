@@ -3003,7 +3003,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "getApplications",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -3016,7 +3018,9 @@
           ],
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "fetchFeedback",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

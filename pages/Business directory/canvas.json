@@ -2401,7 +2401,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "select_company_details",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -2412,7 +2414,9 @@
           ],
           [
             {
+              "id": "Discord Bot2_JSObject1.storeInfo",
               "name": "clearbit_api",
+              "collectionId": "Discord Bot2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
