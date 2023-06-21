@@ -1700,7 +1700,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "SelectQuery",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

@@ -2396,91 +2396,117 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "delayedOrders",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "monthlyDeliveryDates",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "monthlyExpectedDeliveryDates",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "orderValuePerMonth",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "ordersPerMonth",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "paymentMethod",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "popularProducts",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "refundMethod",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "refundValuePerMonth",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "refundedOrders",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "refundsPerMonth",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "totalCustomers",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "totalOrders",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],

@@ -1614,7 +1614,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "GetRelease",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
@@ -1625,8 +1627,9 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "JSObject1.onOpen",
-              "collectionId": "Discord Bot_JSObject1",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [
@@ -1635,8 +1638,9 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "JSObject1.openSetup",
-              "collectionId": "Discord Bot_JSObject1",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [
