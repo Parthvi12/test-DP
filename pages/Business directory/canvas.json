@@ -2401,7 +2401,9 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "select_company_details",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
@@ -2412,7 +2414,9 @@
           ],
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "clearbit_api",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [

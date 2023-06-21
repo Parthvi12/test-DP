@@ -3379,14 +3379,18 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "NumberOfCustomers",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "doNotDisturbCount",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
@@ -3395,7 +3399,9 @@
           ],
           [
             {
+              "id": "Page12_JSObject1.onOpen",
               "name": "GetMarketingList",
+              "collectionId": "Page12_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
