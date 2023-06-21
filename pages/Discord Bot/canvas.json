@@ -1614,17 +1614,19 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Discord Bot_GetRelease",
               "name": "GetRelease",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
+                "access_token.text",
                 "github_username.text",
-                "repo_name.text",
-                "access_token.text"
+                "repo_name.text"
               ],
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot_JSObject1.onOpen",
               "name": "JSObject1.onOpen",
               "collectionId": "Discord Bot_JSObject1",
               "confirmBeforeExecute": false,
@@ -1635,6 +1637,7 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Discord Bot_JSObject1.openSetup",
               "name": "JSObject1.openSetup",
               "collectionId": "Discord Bot_JSObject1",
               "confirmBeforeExecute": false,
