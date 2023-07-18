@@ -1,0 +1,21 @@
+{
+    "widgetName": "Text27",
+    "rightColumn": 18,
+    "textAlign": "LEFT",
+    "widgetId": "g04ay4a3ho",
+    "topRow": 18,
+    "bottomRow": 22,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2gyh8lojxi",
+    "isLoading": false,
+    "parentColumnSpace": 30.75,
+    "leftColumn": 2,
+    "dynamicBindingPathList": [],
+    "fontSize": "PARAGRAPH",
+    "text": "Round 2"
+}

@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text22",
+    "rightColumn": 47,
+    "textAlign": "LEFT",
+    "widgetId": "wzbd482jqa",
+    "topRow": 2,
+    "bottomRow": 6,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#422B41",
+    "parentId": "fi1mfel9i0",
+    "isLoading": false,
+    "parentColumnSpace": 74,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 2,
+    "dynamicBindingPathList": [],
+    "fontSize": "HEADING1",
+    "text": "Job Applications"
+}

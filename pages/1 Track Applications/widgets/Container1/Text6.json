@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text6",
+    "rightColumn": 54,
+    "textAlign": "LEFT",
+    "widgetId": "ualghxykwd",
+    "topRow": 17,
+    "bottomRow": 21,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2zmso1n1ry",
+    "isLoading": false,
+    "parentColumnSpace": 25.25,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 21,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "fontSize": "PARAGRAPH",
+    "text": "{{application_table.selectedRow.candidate_name}}"
+}

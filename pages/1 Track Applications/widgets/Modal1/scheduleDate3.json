@@ -1,0 +1,42 @@
+{
+    "widgetName": "scheduleDate3",
+    "minDate": "{{moment()}}",
+    "dateFormat": "YYYY-MM-DD HH:mm",
+    "dynamicPropertyPathList": [
+        {"key": "defaultDate"},
+        {"key": "minDate"}
+    ],
+    "displayName": "DatePicker",
+    "iconSVG": "/static/media/icon.300e5ab8.svg",
+    "topRow": 31,
+    "bottomRow": 35,
+    "shortcuts": false,
+    "parentRowSpace": 10,
+    "type": "DATE_PICKER_WIDGET2",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 8.125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 32,
+    "dynamicBindingPathList": [
+        {"key": "defaultDate"},
+        {"key": "minDate"}
+    ],
+    "isDisabled": false,
+    "key": "vuany4zify",
+    "isRequired": false,
+    "defaultDate": "{{moment()}}",
+    "rightColumn": 61,
+    "widgetId": "zfg6ehgbsi",
+    "isVisible": true,
+    "datePickerType": "DATE_PICKER",
+    "label": "",
+    "version": 2,
+    "parentId": "2gyh8lojxi",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "timePrecision": "minute",
+    "firstDayOfWeek": 0,
+    "closeOnSelection": true,
+    "maxDate": "2121-12-31T18:29:00.000Z"
+}

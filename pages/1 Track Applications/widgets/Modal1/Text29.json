@@ -1,0 +1,21 @@
+{
+    "widgetName": "Text29",
+    "rightColumn": 52,
+    "textAlign": "LEFT",
+    "widgetId": "c5y9w6rmn0",
+    "topRow": 9,
+    "bottomRow": 13,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2gyh8lojxi",
+    "isLoading": false,
+    "parentColumnSpace": 30.75,
+    "leftColumn": 32,
+    "dynamicBindingPathList": [],
+    "fontSize": "PARAGRAPH",
+    "text": "Interview Schedule"
+}

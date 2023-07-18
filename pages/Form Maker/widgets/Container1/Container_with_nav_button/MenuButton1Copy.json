@@ -1,0 +1,75 @@
+{
+    "isCompact": false,
+    "boxShadow": "none",
+    "widgetName": "MenuButton1Copy",
+    "dynamicPropertyPathList": [
+        {"key": "menuItems.menuItem2.onClick"},
+        {"key": "menuItems.menuItem3.onClick"},
+        {"key": "menuItems.menuItem1.isVisible"},
+        {"key": "menuItems.menuItem3.isVisible"}
+    ],
+    "displayName": "Menu Button",
+    "iconSVG": "/static/media/icon.0341d17d.svg",
+    "topRow": 2,
+    "bottomRow": 7,
+    "parentRowSpace": 10,
+    "type": "MENU_BUTTON_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 12.01953125,
+    "dynamicTriggerPathList": [
+        {"key": "menuItems.menuItem1.onClick"},
+        {"key": "menuItems.menuItem2.onClick"},
+        {"key": "menuItems.menuItem3.onClick"}
+    ],
+    "leftColumn": 48,
+    "dynamicBindingPathList": [
+        {"key": "menuItems.menuItem1.isVisible"},
+        {"key": "menuItems.menuItem3.isVisible"},
+        {"key": "menuColor"}
+    ],
+    "isDisabled": false,
+    "key": "kbnk4w7evq",
+    "labelTextSize": "0.875rem",
+    "rightColumn": 62,
+    "menuVariant": "SECONDARY",
+    "widgetId": "0fmupnhxpx",
+    "menuItems": {
+        "menuItem1": {
+            "onClick": "{{navigateTo('Form Maker', {})}}",
+            "widgetId": "",
+            "index": 0,
+            "label": "Form Maker",
+            "id": "menuItem1",
+            "isVisible": "{{appsmith.user.email=== appsmith.store.email}}",
+            "isDisabled": false
+        },
+        "menuItem3": {
+            "onClick": "{{navigateTo('Responses',{email_id:appsmith.store.email})}}",
+            "widgetId": "",
+            "index": 2,
+            "label": "Form Responses",
+            "id": "menuItem3",
+            "isVisible": "{{appsmith.user.email=== appsmith.store.email}}",
+            "isDisabled": false
+        },
+        "menuItem2": {
+            "onClick": "{{navigateTo('Feedback Form',{email_id:appsmith.store.email, form_id:appsmith.store.formId})}}",
+            "widgetId": "",
+            "index": 1,
+            "label": "Feedback Form",
+            "id": "menuItem2",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "isVisible": true,
+    "label": "Menu",
+    "version": 1,
+    "parentId": "rm8r24dmtt",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "0.375rem",
+    "menuColor": "{{appsmith.theme.colors.backgroundColor}}",
+    "placement": "CENTER"
+}

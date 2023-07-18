@@ -1,0 +1,19 @@
+{
+    "widgetName": "Text25",
+    "rightColumn": 42,
+    "textAlign": "LEFT",
+    "widgetId": "2z0lu08wvh",
+    "topRow": 2,
+    "bottomRow": 6,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2gyh8lojxi",
+    "isLoading": false,
+    "leftColumn": 2,
+    "dynamicBindingPathList": [],
+    "fontSize": "HEADING1",
+    "text": "Schedule Interview"
+}

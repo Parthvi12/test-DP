@@ -1,0 +1,21 @@
+{
+    "widgetName": "Text26",
+    "rightColumn": 18,
+    "textAlign": "LEFT",
+    "widgetId": "vuexjzke8b",
+    "topRow": 9,
+    "bottomRow": 13,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2gyh8lojxi",
+    "isLoading": false,
+    "parentColumnSpace": 30.75,
+    "leftColumn": 2,
+    "dynamicBindingPathList": [],
+    "fontSize": "PARAGRAPH",
+    "text": "Round 1"
+}

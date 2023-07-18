@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text7",
+    "rightColumn": 63,
+    "textAlign": "LEFT",
+    "widgetId": "itehdmnimm",
+    "topRow": 22,
+    "bottomRow": 26,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2zmso1n1ry",
+    "isLoading": false,
+    "parentColumnSpace": 25.25,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 21,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "fontSize": "PARAGRAPH",
+    "text": "{{application_table.selectedRow.candidate_email}}"
+}

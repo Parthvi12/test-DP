@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text8",
+    "rightColumn": 64,
+    "textAlign": "LEFT",
+    "widgetId": "xxhj5gh841",
+    "topRow": 27,
+    "bottomRow": 31,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2zmso1n1ry",
+    "isLoading": false,
+    "parentColumnSpace": 25.25,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 21,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "fontSize": "PARAGRAPH",
+    "text": "{{application_table.selectedRow.candidate_phone_no}}"
+}

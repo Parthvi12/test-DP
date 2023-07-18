@@ -1,0 +1,23 @@
+{
+    "widgetName": "Button3",
+    "rightColumn": 38,
+    "onClick": "{{closeModal('Modal1')}}",
+    "isDefaultClickDisabled": true,
+    "buttonColor": "#422B41",
+    "widgetId": "vx54oyxij0",
+    "topRow": 37,
+    "bottomRow": 42,
+    "isVisible": true,
+    "type": "BUTTON_WIDGET",
+    "version": 1,
+    "recaptchaType": "V3",
+    "parentId": "2gyh8lojxi",
+    "isLoading": false,
+    "dynamicTriggerPathList": [{"key": "onClick"}],
+    "leftColumn": 17,
+    "dynamicBindingPathList": [],
+    "borderRadius": "ROUNDED",
+    "buttonVariant": "SECONDARY",
+    "text": "Cancel",
+    "isDisabled": false
+}

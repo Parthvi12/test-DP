@@ -1,0 +1,28 @@
+{
+    "isRequired": false,
+    "widgetName": "applicant_status_dropdown",
+    "rightColumn": 61,
+    "isFilterable": true,
+    "dynamicPropertyPathList": [{"key": "isVisible"}],
+    "widgetId": "gginf48g6o",
+    "topRow": 37,
+    "bottomRow": 41,
+    "parentRowSpace": 40,
+    "isVisible": "{{application_table.selectedRow.id !== undefined}}",
+    "label": "",
+    "type": "DROP_DOWN_WIDGET",
+    "version": 1,
+    "parentId": "2zmso1n1ry",
+    "isLoading": false,
+    "defaultOptionValue": "{{application_table.selectedRow.application_status}}",
+    "parentColumnSpace": 25.25,
+    "dynamicTriggerPathList": [{"key": "onOptionChange"}],
+    "leftColumn": 17,
+    "dynamicBindingPathList": [
+        {"key": "defaultOptionValue"},
+        {"key": "isVisible"}
+    ],
+    "options": "[\n  {\n    \"label\": \"Applied\",\n    \"value\": \"Applied\"\n  },\n  {\n    \"label\": \"Contacted\",\n    \"value\": \"Contacted\"\n  },\n  {\n    \"label\": \"Interview Scheduled\",\n    \"value\": \"Interview Scheduled\"\n  },\n\t{\n    \"label\": \"Feedback Received\",\n    \"value\": \"Feedback Received\"\n  },\n\t{\n    \"label\": \"Candidate Rejected\",\n    \"value\": \"Candidate Rejected\"\n  },\n\t{\n    \"label\": \"Offer Made\",\n    \"value\": \"Offer Made\"\n  },\n\t{\n    \"label\": \"Offer Accepted\",\n    \"value\": \"Offer Accepted\"\n  },\n\t{\n    \"label\": \"Offer Rejected\",\n    \"value\": \"Offer Rejected\"\n  }\n]",
+    "onOptionChange": "{{Utils.updateStatus()}}",
+    "isDisabled": false
+}

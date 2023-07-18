@@ -1,0 +1,39 @@
+{
+    "boxShadow": "none",
+    "widgetName": "Button2",
+    "onClick": "{{closeModal('API_setup_modal')}}",
+    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "displayName": "Button",
+    "iconSVG": "/static/media/icon.cca02633.svg",
+    "searchTags": [
+        "click",
+        "submit"
+    ],
+    "topRow": 29,
+    "bottomRow": 34,
+    "type": "BUTTON_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "leftColumn": 47,
+    "dynamicBindingPathList": [
+        {"key": "buttonColor"},
+        {"key": "borderRadius"}
+    ],
+    "text": "Close",
+    "isDisabled": false,
+    "key": "3pcudbgnkl",
+    "isDeprecated": false,
+    "rightColumn": 63,
+    "isDefaultClickDisabled": true,
+    "widgetId": "s8oj4ajn9l",
+    "buttonStyle": "PRIMARY",
+    "isVisible": true,
+    "recaptchaType": "V3",
+    "version": 1,
+    "parentId": "ew5huft2hb",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "buttonVariant": "SECONDARY",
+    "placement": "CENTER"
+}

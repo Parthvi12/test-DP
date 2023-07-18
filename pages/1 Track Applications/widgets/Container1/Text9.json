@@ -1,0 +1,26 @@
+{
+    "widgetName": "Text9",
+    "rightColumn": 52,
+    "textAlign": "LEFT",
+    "dynamicPropertyPathList": [{"key": "isVisible"}],
+    "widgetId": "c3s99fz0k7",
+    "topRow": 32,
+    "bottomRow": 36,
+    "parentRowSpace": 40,
+    "isVisible": "{{application_table.selectedRow.id !== undefined}}",
+    "type": "TEXT_WIDGET",
+    "fontStyle": "ITALIC,BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "2zmso1n1ry",
+    "isLoading": false,
+    "parentColumnSpace": 25.25,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 21,
+    "dynamicBindingPathList": [
+        {"key": "text"},
+        {"key": "isVisible"}
+    ],
+    "fontSize": "PARAGRAPH",
+    "text": "<a href=\"{{application_table.selectedRow.resume_url}}\" target=\"_blank\">Resume<\/a>"
+}

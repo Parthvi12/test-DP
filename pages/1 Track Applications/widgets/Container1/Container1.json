@@ -1,0 +1,67 @@
+{
+    "backgroundColor": "#FFFFFF",
+    "widgetName": "Container1",
+    "rightColumn": 55,
+    "dynamicPropertyPathList": [{"key": "isVisible"}],
+    "widgetId": "yedzcruxdu",
+    "containerStyle": "card",
+    "topRow": 22,
+    "bottomRow": 93,
+    "parentRowSpace": 40,
+    "isVisible": "{{application_table.selectedRow.id.toString().length>0}}",
+    "type": "CONTAINER_WIDGET",
+    "version": 1,
+    "parentId": "0",
+    "blueprint": {"view": [{
+        "position": {
+            "top": 0,
+            "left": 0
+        },
+        "type": "CANVAS_WIDGET",
+        "props": {
+            "detachFromLayout": true,
+            "children": [
+                "as2xpsslu8",
+                "8vw8xkw2hr",
+                "mtbmxy0c28",
+                "344we5qfz7",
+                "gginf48g6o",
+                "hn2w62bn92",
+                "4kz50a2esn",
+                "ualghxykwd",
+                "itehdmnimm",
+                "xxhj5gh841",
+                "c3s99fz0k7"
+            ],
+            "containerStyle": "none",
+            "canExtend": false
+        }
+    }]},
+    "isLoading": false,
+    "parentColumnSpace": 74,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 39,
+    "dynamicBindingPathList": [{"key": "isVisible"}],
+    "borderRadius": "15",
+    "children": [{
+        "widgetName": "Canvas1",
+        "rightColumn": 2368,
+        "detachFromLayout": true,
+        "widgetId": "2zmso1n1ry",
+        "containerStyle": "none",
+        "topRow": 0,
+        "bottomRow": 520,
+        "parentRowSpace": 1,
+        "isVisible": true,
+        "canExtend": false,
+        "type": "CANVAS_WIDGET",
+        "version": 1,
+        "parentId": "yedzcruxdu",
+        "minHeight": 240,
+        "isLoading": false,
+        "parentColumnSpace": 1,
+        "dynamicTriggerPathList": [],
+        "leftColumn": 0,
+        "dynamicBindingPathList": []
+    }]
+}
